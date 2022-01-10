@@ -1,7 +1,7 @@
-### Hello, nerds
+###  About me
 
-I'm a Software Engineer and a continuous learner currently working on building resilient software products in the AWS cloud environment and microservice architecture.
+I'm a Software Engineer experienced in designing, developing, and leading projects from small to large in retail, logistics, transportation, and real estate industry. I’m a continuous learner, passionate about technology and product development. Currently building resilient, highly scalable software products and microservice architecture in Go and AWS Cloud.
 
 I'm also a AWS Certified Developer - Associate.
 
-I work on Go, Java and AWS most of the time and personal interests include utilizing Netlify, Hugo. 
+Personally, I enjoy tinkering with Cloudfare, Netlify, and Hugo software products, and I look forward to exploring and contributing to OSS projects.

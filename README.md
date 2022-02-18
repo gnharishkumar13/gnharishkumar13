@@ -4,4 +4,4 @@ I'm a Software Engineer experienced in designing, developing, and leading projec
 
 I'm also a AWS Certified Developer - Associate.
 
-Personally, I enjoy tinkering with Cloudfare, Netlify, and Hugo software products, and I look forward to exploring and contributing to OSS projects.
+Personally, I enjoy tinkering with Cloudflare, Netlify, and Hugo software products, and I look forward to exploring and contributing to OSS projects.

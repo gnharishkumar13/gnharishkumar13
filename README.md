@@ -1,4 +1,4 @@
-###  About me
+###  About me 👋
 
 I am currently deepening my knowledge in Artificial Intelligence and Machine Learning at the University of Texas, Austin, preparing to tackle the challenges of tomorrow's tech landscape. 
 
@@ -13,10 +13,9 @@ My career spans diverse projects across industries such as Retail, Logistics, Tr
 |DataScience Tools      |    NumPy, Pandas, EDA   |
 |Development Tools   |  Docker, Kubernetes, Terraform, Vault, Concourse, Splunk, GitHub, GitLab, Bitbucket   | 
 | Databases |  Postgres, MySQL, Redis, Elasticsearch   | 
-| Frameworks|   Reactjs, gRPC, Protocol Buffers, JSON   | 
+| Frameworks|   Reactjs, Recoil, gRPC, Protocol Buffers, JSON   | 
 | Cloud Services |  AWS (certified), Azure  | 
 |Software Architecture|  API Design, Distributed Systems, Engineering Best Practices | 
-
 
 
 I actively explore and develop products with Cloudflare services and Hugo.
